@@ -33,13 +33,14 @@ Focus on software engineering and special interest in web development, HTML, CSS
 
 ---
 
-## 📁 Projects
+## 🛠️ Tools
 
-> Here are some of my personal projects — feel free to explore!
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔗 [pedrolucas](https://github.com/pedrolbr25/pedrolucas) | My GitHub profile README | Markdown |
+| Badge | Description |
+|-------|-------------|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Version control |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Repository hosting |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Code editor |
+| ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) | Java IDE |
 
 <!-- Add more projects as you build them! -->
 
