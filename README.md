@@ -9,7 +9,7 @@ Focus on software engineering and special interest in web development, HTML, CSS
 
 ## 📬 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrostets@gmail.com)
 
 ---
 
